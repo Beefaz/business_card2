@@ -16,8 +16,12 @@ body {
 }
 
 main {
+    height: 100vh;
     max-width: min-content;
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 
